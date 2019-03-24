@@ -1,0 +1,59 @@
+
+/*body
+{
+	
+	background: linear-gradient(
+                     rgba(10,10,10, .8), 
+                     rgba(10,10,10, .8)),
+                     url( "http://www.vit.ac.in/images/aboutvit/slider.jpg");
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	
+
+}
+*/
+
+body{
+	font-family: 'Varela Round', sans-serif;
+	color: white;
+}
+.jumbotron
+{
+	background-color: transparent;
+	text-align: center;
+	color: white;
+	padding-top: 250px;
+	margin-bottom: 0;
+}
+
+.back
+{
+	background: linear-gradient(
+                     rgba(10,10,10, .8), 
+                     rgba(10,10,10, .8)),
+                     url( "http://www.vit.ac.in/images/aboutvit/slider.jpg");
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.about{
+	background-color: #28a745;
+}
+
+.contact{
+	background-color: black;
+}
+
+.btn{
+	color: #28a745;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar-light .navbar-brand{
+	color: white;
+}
